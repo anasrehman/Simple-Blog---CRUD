@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-- [Angela Yu](https://www.udemy.com/user/angela-yu/) - For the comprehensive course
+- [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=LEADERSALE24A) - For the comprehensive course
 - [Node.js](https://nodejs.org/) - The JavaScript runtime used
 - [Express.js](https://expressjs.com/) - The web framework used
 - [Postman](https://www.postman.com/) - For API testing
