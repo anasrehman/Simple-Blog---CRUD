@@ -38,7 +38,7 @@ To get a local copy up and running, follow these simple steps:
     ```
 2. Navigate to the project directory
     ```sh
-    cd your-repo-name
+    cd Simple-Blog---CRUD
     ```
 3. Install the required packages
     ```sh
@@ -50,7 +50,11 @@ To get a local copy up and running, follow these simple steps:
 To run the API locally, use the following command:
 
 ```sh
-node app.js
+node server.js
+```
+
+```sh
+node index.js
 ```
 
 The API will be accessible at `http://127.0.0.1:3000`.
