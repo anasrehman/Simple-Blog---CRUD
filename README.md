@@ -106,3 +106,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 Feel free to customize this template to better fit your project. Include any additional sections or information specific to your project as needed.
+
+## Result
+### sample-1
+![Blog web](Blog-1.JPG)
+
+### sample-2
+![Blog web](Blog-2.JPG)
